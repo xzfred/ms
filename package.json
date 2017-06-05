@@ -1,0 +1,33 @@
+{
+  "name": "minsimUI",
+  "title": "minsimUI",
+  "description": "JavaScript library for UI",
+  "version": "0.0.0",
+  "main": "dist/minsim.js",
+  "homepage": "https://minsimui.com",
+  "author": {
+    "name": "xzfred 徐智",
+    "url": "https://github.com/xzfred/minsimUI/AUTHORS.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xzfred/minsimUI.git"
+  },
+  "keywords": [
+    "minsimUI",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/xzfred/minsimUI/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-babel": "6.0.0",
+    "grunt-cli": "1.2.0",
+  }
+}
+
